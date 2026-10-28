@@ -16,12 +16,14 @@
 
 <br>
 
-## `$ whoami`
+## `void joao() {`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/whoami-dark.svg">
-  <img src="./assets/whoami-light.svg" alt="whoami.c — João Bernardes, CS Student @ UFJ, Game Dev" width="100%">
+  <img src="./assets/whoami-light.svg" alt="whoami.c — João Bernardes, CS Student @ UFJ, Game Dev" width="560">
 </picture>
+
+## `}`
 
 - 🕯️ Faço jogos desde **2019**, principalmente **terror** — hoje na **Unreal** e na **Unity**.
 - 🗄️ Construindo minha base em **web e banco de dados**: aprendendo SQL a fundo e Next.js.
