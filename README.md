@@ -10,6 +10,7 @@
 <br><br>
 
 <a href="https://joaobyss.itch.io"><img src="https://img.shields.io/badge/itch.io-joaobyss-5C3A21?style=flat-square&logo=itchdotio&logoColor=F5EFE6&labelColor=2B2B2B"></a>
+<a href="https://www.linkedin.com/in/joao-bernardes-478749415/"><img src="https://img.shields.io/badge/linkedin-João%20Bernardes-5C3A21?style=flat-square&logo=linkedin&logoColor=F5EFE6&labelColor=2B2B2B"></a>
 <a href="https://github.com/exgde"><img src="https://img.shields.io/badge/github-exgde-5C3A21?style=flat-square&logo=github&logoColor=F5EFE6&labelColor=2B2B2B"></a>
 
 </div>
