@@ -63,17 +63,6 @@ local      →  Jataí, GO · Brasil
 
 <br>
 
-### ── atividade
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=exgde&show_icons=true&hide_border=true&bg_color=F5EFE6&title_color=5C3A21&text_color=2B2B2B&icon_color=8B5A2B&hide_rank=true">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exgde&layout=compact&hide_border=true&bg_color=F5EFE6&title_color=5C3A21&text_color=2B2B2B">
-
-</div>
-
-<br>
-
 <div align="center">
 <sub>feito por joaobyss · ☕</sub>
 </div>
