@@ -19,8 +19,8 @@
 ## `void joao() {`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/whoami-dark.svg">
-  <img src="./assets/whoami-light.svg" alt="whoami.c — João Bernardes, CS Student @ UFJ, Game Dev" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/whoami-v2-dark.svg">
+  <img src="./assets/whoami-v2-light.svg" alt="whoami.c — João Bernardes, CS Student @ UFJ, Game Dev" width="100%">
 </picture>
 
 ## `}`
