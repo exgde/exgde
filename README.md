@@ -57,10 +57,6 @@
 
 <table>
 <tr>
-<td width="38%"><h3><a href="https://joaobyss.itch.io">Goldspotting</a></h3><code>jogo</code> <code>Unity</code> <code>itch.io</code></td>
-<td>Meu primeiro jogo lançado publicamente.</td>
-</tr>
-<tr>
 <td width="38%"><h3><a href="https://github.com/exgde/biblioteca-sql">biblioteca-sql</a></h3><code>banco de dados</code> <code>MySQL</code></td>
 <td>Modelagem de um sistema de biblioteca, do diagrama às consultas.</td>
 </tr>
@@ -71,6 +67,17 @@
 <tr>
 <td width="38%"><h3>Darkness Framework</h3><code>Unreal 5</code> <code>Blueprint</code> <code>em desenvolvimento</code></td>
 <td>Base de terror em terceira pessoa: motion matching, lanterna, interação e armas com recoil procedural.</td>
+</tr>
+</table>
+
+<br>
+
+## 🎮 Jogos publicados
+
+<table>
+<tr>
+<td width="38%"><h3><a href="https://joaobyss.itch.io/goldspotting">Goldspotting</a></h3><code>Unity</code> <code>itch.io</code> <code>2026</code></td>
+<td>Meu primeiro jogo lançado publicamente.<br><br><a href="https://joaobyss.itch.io/goldspotting"><img height="34" src="https://img.shields.io/badge/jogar%20no%20itch.io-5C3A21?style=for-the-badge&logo=itchdotio&logoColor=F5EFE6"></a></td>
 </tr>
 </table>
 
