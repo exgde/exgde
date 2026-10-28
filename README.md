@@ -18,15 +18,10 @@
 
 ## `$ whoami`
 
-```js
-const joao = {
-  role:      "CS Student @ UFJ · Game Dev",
-  base:      "Técnico em Informática — IFG",
-  location:  "Jataí, GO · Brasil 🇧🇷",
-  daily:     ["C#", "Unreal Blueprint", "TypeScript", "SQL"],
-  brewing:   "survival horror estilo RE2 Remake / PSX",
-};
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/whoami-dark.svg">
+  <img src="./assets/whoami-light.svg" alt="whoami.c — João Bernardes, CS Student @ UFJ, Game Dev" width="100%">
+</picture>
 
 - 🕯️ Faço jogos desde **2019**, principalmente **terror** — hoje na **Unreal** e na **Unity**.
 - 🗄️ Construindo minha base em **web e banco de dados**: aprendendo SQL a fundo e Next.js.
