@@ -16,6 +16,11 @@
 
 <br>
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./assets/matrix-dark.svg">
+<img src="./assets/matrix-light.svg" alt="SQL + Python + FastAPI + React + C#/++" width="100%">
+</picture>
+
 ## `void joao() {`
 
 <picture>
