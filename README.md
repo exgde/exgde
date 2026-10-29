@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=2B2B2B&height=200&section=header&text=Jo%C3%A3o%20Bernardes&fontSize=64&fontColor=E8D5B7&desc=dev%20%E2%80%A2%20game%20dev%20%E2%80%A2%20cs%20student&descSize=22&descAlignY=74&fontAlignY=42">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F5EFE6&height=200&section=header&text=Jo%C3%A3o%20Bernardes&fontSize=64&fontColor=5C3A21&desc=dev%20%E2%80%A2%20game%20dev%20%E2%80%A2%20cs%20student&descSize=22&descAlignY=74&fontAlignY=42" alt="João Bernardes" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=2B2B2B&height=200&section=header&text=Jo%C3%A3o%20Bernardes&fontSize=64&fontColor=E8D5B7&desc=dev%20%E2%80%A2%20game-designer%20%E2%80%A2%20cs%20student&descSize=22&descAlignY=74&fontAlignY=42">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F5EFE6&height=200&section=header&text=Jo%C3%A3o%20Bernardes&fontSize=64&fontColor=5C3A21&desc=dev%20%E2%80%A2%20game-designer%20%E2%80%A2%20cs%20student&descSize=22&descAlignY=74&fontAlignY=42" alt="João Bernardes" width="100%">
 </picture>
 
 <h3><i>made slowly, like good coffee. ☕</i></h3>
