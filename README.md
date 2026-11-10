@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F5EFE6&height=200&section=header&text=Jo%C3%A3o%20Bernardes&fontSize=64&fontColor=5C3A21&desc=dev%20%E2%80%A2%20game-designer%20%E2%80%A2%20cs%20student&descSize=22&descAlignY=74&fontAlignY=42" alt="João Bernardes" width="100%">
 </picture>
 
-<h3><i>made slowly, like good coffee. ☕</i></h3>
+<h3><i>made slowly, like good coffee.</i></h3>
 
 <a href="https://joaobyss.itch.io"><img height="34" src="https://img.shields.io/badge/itch.io-joaobyss-5C3A21?style=for-the-badge&logo=itchdotio&logoColor=F5EFE6&labelColor=2B2B2B"></a>
 <a href="https://www.linkedin.com/in/joao-bernardes-478749415/"><img height="34" src="https://img.shields.io/badge/linkedin-João%20Bernardes-5C3A21?style=for-the-badge&logo=linkedin&logoColor=F5EFE6&labelColor=2B2B2B"></a>
@@ -25,18 +25,20 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/whoami-v3-dark.svg">
-  <img src="./assets/whoami-v3-light.svg" alt="whoami.c — João Bernardes, CS Student @ UFJ, Game Dev" width="100%">
+  <img src="./assets/whoami-v3-light.svg" alt="whoami.c: João Bernardes, CS Student @ UFJ, Game Dev" width="100%">
 </picture>
 
 ## `}`
 
-- 🕯️ Faço jogos desde **2019**, principalmente **terror** — hoje na **Unreal** e na **Unity**.
-- 🗄️ Construindo minha base em **web e banco de dados**: aprendendo SQL a fundo e Next.js.
-- 🤝 Aberto a **oportunidades como dev júnior**, freelas, networking e colaborações.
+Faço jogos desde 2019, quase sempre de terror. Hoje mexo mais com Unreal e Unity.
+
+Fora dos jogos, estou montando minha base em web e banco de dados: SQL a fundo e Next.js.
+
+Procuro uma vaga de dev júnior, mas também topo freela, colaboração ou só trocar uma ideia.
 
 <br>
 
-## 🧰 Stack
+## Stack
 
 <p>
 <img height="34" src="https://img.shields.io/badge/C%23-E8D5B7?style=for-the-badge&logo=dotnet&logoColor=5C3A21">
@@ -58,28 +60,28 @@
 
 <br>
 
-## 📂 Projetos
+## Projetos
 
 <p align="center">
 <a href="https://github.com/exgde/oot-switch2-button-prompts"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/button-prompts-dark.svg"><img src="./assets/projetos/button-prompts-light.svg" alt="Button Prompts: ícones de PlayStation, Xbox e Steam Deck no OOT (Switch 2)" width="49%"></picture></a>
-<a href="https://github.com/exgde/oot-lichii-keyboard-mouse"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/teclado-mouse-dark.svg"><img src="./assets/projetos/teclado-mouse-light.svg" alt="Teclado + Mouse: OOT (Switch 2) no Lichii com teclado e mouse" width="49%"></picture></a>
+<a href="https://github.com/exgde/oot-lichii-keyboard-mouse"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/teclado-mouse-dark.svg"><img src="./assets/projetos/teclado-mouse-light.svg" alt="Teclado + Mouse: pra jogar OOT (Switch 2) no Lichii de teclado e mouse" width="49%"></picture></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/exgde/adega"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/adega-dark.svg"><img src="./assets/projetos/adega-light.svg" alt="Adega: gerenciador de bottles do Wine para macOS" width="49%"></picture></a>
-<a href="https://github.com/exgde/biblioteca-sql"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/biblioteca-sql-dark.svg"><img src="./assets/projetos/biblioteca-sql-light.svg" alt="Biblioteca SQL: sistema de biblioteca em MySQL" width="49%"></picture></a>
+<a href="https://github.com/exgde/adega"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/adega-dark.svg"><img src="./assets/projetos/adega-light.svg" alt="Adega: meu CrossOver caseiro, um app pra macOS que roda programas do Windows" width="49%"></picture></a>
+<a href="https://github.com/exgde/biblioteca-sql"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/biblioteca-sql-dark.svg"><img src="./assets/projetos/biblioteca-sql-light.svg" alt="Biblioteca SQL: trabalho de Banco de Dados da UFJ, modelo MySQL de uma biblioteca" width="49%"></picture></a>
 </p>
 
 <br>
 
-## 🎮 Jogos publicados
+## No itch.io
 
 <p align="center">
-<a href="https://joaobyss.itch.io/goldspotting"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/goldspotting-dark.svg"><img src="./assets/projetos/goldspotting-light.svg" alt="Goldspotting: meu primeiro jogo, no itch.io" width="49%"></picture></a>
+<a href="https://joaobyss.itch.io/goldspotting"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/goldspotting-dark.svg"><img src="./assets/projetos/goldspotting-light.svg" alt="Goldspotting: meu primeiro jogo lançado, no itch.io" width="49%"></picture></a>
 </p>
 
 <br>
 
 <div align="center">
-<h4>feito por joaobyss · ☕</h4>
+<h4>feito por joaobyss, com café</h4>
 </div>
