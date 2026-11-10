@@ -60,31 +60,23 @@
 
 ## 📂 Projetos
 
-<table>
-<tr>
-<td width="38%"><h3><a href="https://github.com/exgde/biblioteca-sql">biblioteca-sql</a></h3><code>banco de dados</code> <code>MySQL</code></td>
-<td>Modelagem de um sistema de biblioteca, do diagrama às consultas.</td>
-</tr>
-<tr>
-<td width="38%"><h3><a href="https://github.com/exgde/lucky38-blackjack">lucky38-blackjack</a></h3><code>web</code> <code>HTML</code> <code>CSS</code> <code>JS</code></td>
-<td>Blackjack no navegador com cara de paciência clássica e clima de Fallout: New Vegas.</td>
-</tr>
-<tr>
-<td width="38%"><h3>Darkness Framework</h3><code>Unreal 5</code> <code>Blueprint</code> <code>em desenvolvimento</code></td>
-<td>Base de terror em terceira pessoa: motion matching, lanterna, interação e armas com recoil procedural.</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/exgde/oot-switch2-button-prompts"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/button-prompts-dark.svg"><img src="./assets/projetos/button-prompts-light.svg" alt="Button Prompts: ícones de PlayStation, Xbox e Steam Deck no OOT (Switch 2)" width="49%"></picture></a>
+<a href="https://github.com/exgde/oot-lichii-keyboard-mouse"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/teclado-mouse-dark.svg"><img src="./assets/projetos/teclado-mouse-light.svg" alt="Teclado + Mouse: OOT (Switch 2) no Lichii com teclado e mouse" width="49%"></picture></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/exgde/adega"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/adega-dark.svg"><img src="./assets/projetos/adega-light.svg" alt="Adega: gerenciador de bottles do Wine para macOS" width="49%"></picture></a>
+<a href="https://github.com/exgde/biblioteca-sql"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/biblioteca-sql-dark.svg"><img src="./assets/projetos/biblioteca-sql-light.svg" alt="Biblioteca SQL: sistema de biblioteca em MySQL" width="49%"></picture></a>
+</p>
 
 <br>
 
 ## 🎮 Jogos publicados
 
-<table>
-<tr>
-<td width="38%"><h3><a href="https://joaobyss.itch.io/goldspotting">Goldspotting</a></h3><code>Unity</code> <code>itch.io</code> <code>2026</code></td>
-<td>Meu primeiro jogo lançado publicamente.<br><br><a href="https://joaobyss.itch.io/goldspotting"><img height="34" src="https://img.shields.io/badge/jogar%20no%20itch.io-5C3A21?style=for-the-badge&logo=itchdotio&logoColor=F5EFE6"></a></td>
-</tr>
-</table>
+<p align="center">
+<a href="https://joaobyss.itch.io/goldspotting"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/goldspotting-dark.svg"><img src="./assets/projetos/goldspotting-light.svg" alt="Goldspotting: meu primeiro jogo, no itch.io" width="49%"></picture></a>
+</p>
 
 <br>
 
