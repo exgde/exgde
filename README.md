@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=2B2B2B&height=200&section=header&text=Jo%C3%A3o%20Bernardes&fontSize=64&fontColor=E8D5B7&desc=dev%20%E2%80%A2%20game-designer%20%E2%80%A2%20cs%20student&descSize=22&descAlignY=74&fontAlignY=42">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F5EFE6&height=200&section=header&text=Jo%C3%A3o%20Bernardes&fontSize=64&fontColor=5C3A21&desc=dev%20%E2%80%A2%20game-designer%20%E2%80%A2%20cs%20student&descSize=22&descAlignY=74&fontAlignY=42" alt="João Bernardes" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=2B2B2B&height=200&section=header&text=Jo%C3%A3o%20Bernardes&fontSize=64&fontColor=E8D5B7&desc=ai%20engineer%20%E2%80%A2%20automa%C3%A7%C3%A3o%20%E2%80%A2%20cs%20student&descSize=22&descAlignY=74&fontAlignY=42">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F5EFE6&height=200&section=header&text=Jo%C3%A3o%20Bernardes&fontSize=64&fontColor=5C3A21&desc=ai%20engineer%20%E2%80%A2%20automa%C3%A7%C3%A3o%20%E2%80%A2%20cs%20student&descSize=22&descAlignY=74&fontAlignY=42" alt="João Bernardes" width="100%">
 </picture>
 
 <h3><i>made slowly, like good coffee.</i></h3>
@@ -18,29 +18,49 @@
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/matrix-dark.svg">
-<img src="./assets/matrix-light.svg" alt="SQL + Python + FastAPI + React + C#/++" width="100%">
+<img src="./assets/matrix-light.svg" alt="LLMs locais + MCP + Python + automação" width="100%">
 </picture>
 
 ## `void joao() {`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/whoami-v3-dark.svg">
-  <img src="./assets/whoami-v3-light.svg" alt="whoami.c: João Bernardes, CS Student @ UFJ, Game Dev" width="100%">
+  <img src="./assets/whoami-v3-light.svg" alt="whoami.c: João Bernardes, AI Engineer, CS Student @ UFJ, foco em IA local, automação e integração" width="100%">
 </picture>
 
 ## `}`
 
-Faço jogos desde 2019, quase sempre de terror. Hoje mexo mais com Unreal e Unity.
+Rodo LLMs na minha própria máquina desde 2023. Hoje meu foco é **AI engineering**: automação e integração inteligente entre modelos, ferramentas e sistemas.
 
-Fora dos jogos, estou montando minha base em web e banco de dados: SQL a fundo e Next.js.
+Antes da IA vieram os jogos, que faço desde 2019, quase sempre de terror, em Unreal e Unity. Também estudo web e banco de dados: SQL a fundo e Next.js.
 
-Procuro uma vaga de dev júnior, mas também topo freela, colaboração ou só trocar uma ideia.
+Procuro uma vaga júnior em AI engineering ou desenvolvimento, mas também topo freela, colaboração ou só trocar uma ideia.
+
+<br>
+
+## AI engineering
+
+- **IA local:** Ollama, LM Studio e llama.cpp, com modelos GGUF baixados do Hugging Face.
+- **Nuvem:** servidores no Google Cloud quando o modelo não cabe na máquina de casa.
+- **MCP:** Model Context Protocol para ligar modelos a ferramentas, arquivos e APIs.
+- **Contexto e parâmetros:** monto o contexto que o modelo recebe e ajusto temperatura, top-p e janela de contexto para cada tarefa.
+- **Automação:** fluxos em que a IA faz o trabalho repetitivo e conversa com outros sistemas.
 
 <br>
 
 ## Stack
 
 <p>
+<img height="34" src="https://img.shields.io/badge/Ollama-2B2B2B?style=for-the-badge&logo=ollama&logoColor=E8D5B7">
+<img height="34" src="https://img.shields.io/badge/LM%20Studio-2B2B2B?style=for-the-badge">
+<img height="34" src="https://img.shields.io/badge/llama.cpp-2B2B2B?style=for-the-badge">
+<img height="34" src="https://img.shields.io/badge/Hugging%20Face-2B2B2B?style=for-the-badge&logo=huggingface&logoColor=E8D5B7">
+<img height="34" src="https://img.shields.io/badge/Google%20Cloud-2B2B2B?style=for-the-badge&logo=googlecloud&logoColor=E8D5B7">
+<img height="34" src="https://img.shields.io/badge/MCP-2B2B2B?style=for-the-badge&logo=modelcontextprotocol&logoColor=E8D5B7">
+</p>
+
+<p>
+<img height="34" src="https://img.shields.io/badge/Python-E8D5B7?style=for-the-badge&logo=python&logoColor=5C3A21">
 <img height="34" src="https://img.shields.io/badge/C%23-E8D5B7?style=for-the-badge&logo=dotnet&logoColor=5C3A21">
 <img height="34" src="https://img.shields.io/badge/TypeScript-E8D5B7?style=for-the-badge&logo=typescript&logoColor=5C3A21">
 <img height="34" src="https://img.shields.io/badge/JavaScript-E8D5B7?style=for-the-badge&logo=javascript&logoColor=5C3A21">
