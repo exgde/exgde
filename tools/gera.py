@@ -82,13 +82,13 @@ CONTEUDO = {
          'Trabalho de Banco de Dados da UFJ. O modelo MySQL de uma biblioteca, com 12 consultas.',
          'MYSQL · MODELAGEM', ''),
         ('goldspotting', 'joaobyss.itch.io', 'Goldspotting',
-         'Meu primeiro jogo lançado. Fiz na Unity e dá pra jogar no navegador, no itch.io.',
-         'UNITY · ITCH.IO', 'JOGAR'),
+         'Meu primeiro jogo lançado. Fiz na Unity e publiquei no itch.io.',
+         'UNITY · ITCH.IO', ''),
     ],
     # privados, em lista: (título, descrição, estado)
     'andamento': [
         ('WW1-Thriller', 'Terror em terceira pessoa na Unreal Engine 5.8, todo em Blueprint.', 'EM PRODUÇÃO'),
-        ('Casa Acessível', 'Casa e banheiro adaptados pra cadeira de rodas, em VR e em escala real.', 'VR'),
+        ('Casa Acessível', 'Experiência em VR para exposição num shopping da minha cidade: casa e banheiro adaptados a cadeirantes.', 'VR'),
         ('CUTSCENE-LOADER', 'Animação 3D a partir de vídeo comum, sem mocap. Exporta BVH pro Blender.', 'PRÉ-ALPHA'),
         ('Painel com MCP', 'Servidor MCP que mostra ao Claude o estado real das coisas. Um Qwen local dá o segundo parecer.', 'PREPARANDO'),
         ('Fábrica de vídeos', 'Roteiro, voz local e animação 3D feita em código. Nada vai ao ar sem eu aprovar.', 'PREPARANDO'),
