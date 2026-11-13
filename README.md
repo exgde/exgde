@@ -87,7 +87,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/andamento-light.svg">
-  <img src="./assets/andamento-dark.svg" alt="Projetos privados: CUTSCENE-LOADER, animação 3D a partir de vídeo comum. Painel com MCP, que mostra ao Claude o estado real das coisas. Fábrica de vídeos com roteiro, voz local e animação 3D. Prospecção com teto de custo e aprovação de cada envio. Casa Acessível, experiência em VR para exposição num shopping da minha cidade, com casa e banheiro adaptados a cadeirantes. WW1-Thriller, terror em terceira pessoa na Unreal Engine 5.8." width="100%">
+  <img src="./assets/andamento-dark.svg" alt="Projetos privados: CUTSCENE-LOADER, animação 3D a partir de vídeo comum. Ferramentas variadas dedicadas ao desenvolvimento de jogos indie. Prospecção com teto de custo e aprovação de cada envio. Casa Acessível, experiência em VR para exposição num shopping da minha cidade, com casa e banheiro adaptados a cadeirantes. WW1-Thriller, terror em terceira pessoa na Unreal Engine 5.8." width="100%">
 </picture>
 
 <br><br>

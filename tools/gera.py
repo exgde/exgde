@@ -95,8 +95,7 @@ CONTEUDO = {
     # privados, em lista: (título, descrição, estado)
     'andamento': [
         ('CUTSCENE-LOADER', 'Animação 3D a partir de vídeo comum, sem mocap. Exporta BVH pro Blender.', 'PRÉ-ALPHA'),
-        ('Painel com MCP', 'Servidor MCP que mostra ao Claude o estado real das coisas. Um Qwen local dá o segundo parecer.', 'PREPARANDO'),
-        ('Fábrica de vídeos', 'Roteiro, voz local e animação 3D feita em código. Nada vai ao ar sem eu aprovar.', 'PREPARANDO'),
+        ('Ferramentas de game dev', 'Ferramentas variadas dedicadas ao desenvolvimento de jogos indie.', 'EM ANDAMENTO'),
         ('Prospecção', 'Busca, página de demonstração e fila de mensagens, com teto de custo. Eu aprovo cada envio.', 'PREPARANDO'),
         ('Casa Acessível', 'Experiência em VR para exposição num shopping da minha cidade: casa e banheiro adaptados a cadeirantes.', 'VR'),
         ('WW1-Thriller', 'Terror em terceira pessoa na Unreal Engine 5.8, todo em Blueprint.', 'EM PRODUÇÃO'),
