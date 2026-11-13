@@ -43,8 +43,9 @@ CONTEUDO = {
         ('sobre', '01', 'SOBRE', 'PLAYER.INFO'),
         ('stack', '02', 'STACK', 'INVENTORY'),
         ('abertos', '03', 'CÓDIGO ABERTO', 'UMD.LIST'),
-        ('andamento', '04', 'EM ANDAMENTO', 'SAVE.DATA'),
-        ('contato', '05', 'CONTATO', 'LINK.CABLE'),
+        ('mods', '04', 'MODIFICAÇÕES E CORREÇÕES PARA JOGOS', 'PATCH.LIST'),
+        ('andamento', '05', 'EM ANDAMENTO', 'SAVE.DATA'),
+        ('contato', '06', 'CONTATO', 'LINK.CABLE'),
     ],
     'bio': ('Rodo modelos de linguagem no meu próprio computador desde 2023. Hoje '
             'trabalho mais com automação: faço o modelo mexer em ferramentas e dados de '
@@ -81,6 +82,9 @@ CONTEUDO = {
         ('goldspotting', 'joaobyss.itch.io', 'Goldspotting',
          'Fiz na Unity pra GBJAM 14 e publiquei no itch.io.',
          'UNITY · ITCH.IO', ''),
+    ],
+    # mods e correções para jogos, mesmo formato de 'abertos'
+    'mods': [
         ('button-prompts', 'exgde/oot-switch2-button-prompts', 'Button Prompts',
          'Troca os ícones de botão do OOT (Switch 2) pelos de PlayStation, Xbox e Steam Deck.',
          'MOD · ROMFS · LAYEREDFS', '★ 45+'),
@@ -466,8 +470,9 @@ def main():
         tam['andamento-' + tema] = andamento(tema)
         tam['contato-' + tema] = contato(tema)
         tam['rodape-' + tema] = rodape(tema)
-    for i, r in enumerate(CONTEUDO['abertos']):
-        tam['card-' + r[0]] = tela(r[0], i + 1, *r[1:])
+    for lista in ('abertos', 'mods'):                 # cada lista numera os cartões desde 01
+        for i, r in enumerate(CONTEUDO[lista]):
+            tam['card-' + r[0]] = tela(r[0], i + 1, *r[1:])
     print(f'{len(tam)} arquivos, {sum(tam.values()) / 1024:.0f} KB; maiores: '
           + ', '.join(f'{k} {v // 1024}KB' for k, v in sorted(tam.items(), key=lambda kv: -kv[1])[:3]))
 

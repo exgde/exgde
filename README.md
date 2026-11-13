@@ -65,6 +65,14 @@
 <a href="https://github.com/exgde/biblioteca-sql"><img src="./assets/card-biblioteca-sql.svg" alt="Biblioteca SQL: trabalho de Banco de Dados da UFJ, o modelo MySQL de uma biblioteca." width="49%"></a>
 <a href="https://joaobyss.itch.io/goldspotting"><img src="./assets/card-goldspotting.svg" alt="Goldspotting: feito na Unity pra GBJAM 14 e publicado no itch.io." width="49%"></a>
 </p>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/sec-mods-light.svg">
+  <img src="./assets/sec-mods-dark.svg" alt="04 // Modificações e correções para jogos" width="100%">
+</picture>
+
 <p align="center">
 <a href="https://github.com/exgde/oot-switch2-button-prompts"><img src="./assets/card-button-prompts.svg" alt="Button Prompts: troca os ícones de botão do OOT (Switch 2) pelos de PlayStation, Xbox e Steam Deck. Mais de 45 estrelas." width="49%"></a>
 <a href="https://github.com/exgde/oot-lichii-keyboard-mouse"><img src="./assets/card-teclado-mouse.svg" alt="Teclado + Mouse: pra jogar OOT no Lichii de teclado e mouse." width="49%"></a>
@@ -74,7 +82,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/sec-andamento-light.svg">
-  <img src="./assets/sec-andamento-dark.svg" alt="04 // Em andamento" width="100%">
+  <img src="./assets/sec-andamento-dark.svg" alt="05 // Em andamento" width="100%">
 </picture>
 
 <picture>
@@ -86,7 +94,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/sec-contato-light.svg">
-  <img src="./assets/sec-contato-dark.svg" alt="05 // Contato" width="100%">
+  <img src="./assets/sec-contato-dark.svg" alt="06 // Contato" width="100%">
 </picture>
 
 <a href="mailto:jbmidiasxboy@gmail.com"><picture>
