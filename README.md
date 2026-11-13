@@ -3,58 +3,58 @@
 <div align="center">
 
 <a href="https://exgde.github.io"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img src="./assets/banner-light.svg" alt="joaobyss: IA local, automação e jogos" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img src="./assets/banner-dark.svg" alt="joaobyss: IA local, automação e jogos" width="100%">
 </picture></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
-  <img src="./assets/terminal-light.svg" alt="Ligo IA local a ferramentas e rotinas. No tempo livre, faço jogos." width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
+  <img src="./assets/terminal-dark.svg" alt="Ligo IA local a ferramentas e rotinas. No tempo livre, faço jogos." width="100%">
 </picture>
 
-<a href="https://exgde.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg"><img src="./assets/btn-portfolio-light.svg" alt="Portfólio" height="34"></picture></a>&nbsp;
-<a href="https://www.linkedin.com/in/joao-bernardes-478749415/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"><img src="./assets/btn-linkedin-light.svg" alt="LinkedIn" height="34"></picture></a>&nbsp;
-<a href="mailto:jbmidiasxboy@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg"><img src="./assets/btn-email-light.svg" alt="E-mail" height="34"></picture></a>&nbsp;
-<a href="https://joaobyss.itch.io"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-itch-dark.svg"><img src="./assets/btn-itch-light.svg" alt="itch.io" height="34"></picture></a>
+<a href="https://exgde.github.io"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/btn-portfolio-light.svg"><img src="./assets/btn-portfolio-dark.svg" alt="Portfólio" height="34"></picture></a>&nbsp;
+<a href="https://www.linkedin.com/in/joao-bernardes-478749415/"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/btn-linkedin-light.svg"><img src="./assets/btn-linkedin-dark.svg" alt="LinkedIn" height="34"></picture></a>&nbsp;
+<a href="mailto:jbmidiasxboy@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/btn-email-light.svg"><img src="./assets/btn-email-dark.svg" alt="E-mail" height="34"></picture></a>&nbsp;
+<a href="https://joaobyss.itch.io"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/btn-itch-light.svg"><img src="./assets/btn-itch-dark.svg" alt="itch.io" height="34"></picture></a>
 
 </div>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-sobre-dark.svg">
-  <img src="./assets/sec-sobre-light.svg" alt="01 // Sobre" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/sec-sobre-light.svg">
+  <img src="./assets/sec-sobre-dark.svg" alt="01 // Sobre" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sobre-dark.svg">
-  <img src="./assets/sobre-light.svg" alt="Rodo modelos de linguagem no meu próprio computador desde 2023. Hoje trabalho mais com automação: faço o modelo mexer em ferramentas e dados de verdade, inclusive via MCP. Antes da IA vieram os jogos, e eles continuam. Agora estou no WW1-Thriller, um terror em terceira pessoa na Unreal Engine 5. Quero: vaga júnior em AI engineering ou automação. Foco: IA local, MCP, agentes e integração. Base: Ciência da Computação na UFJ. Side quest: jogos e mods desde 2019, na Unity e na Unreal. Combustível: café, silêncio e uma GPU." width="100%">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-stack-dark.svg">
-  <img src="./assets/sec-stack-light.svg" alt="02 // Stack" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/icones-dark.svg">
-  <img src="./assets/icones-light.svg" alt="Claude, Python, TypeScript, Node.js, Docker, SQLite, MySQL, Git, Swift, .NET, Unity, Unreal Engine e Blender" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/sobre-light.svg">
+  <img src="./assets/sobre-dark.svg" alt="Rodo modelos de linguagem no meu próprio computador desde 2023. Hoje trabalho mais com automação: faço o modelo mexer em ferramentas e dados de verdade, inclusive via MCP. Antes da IA vieram os jogos, e eles continuam. Agora estou no WW1-Thriller, um terror em terceira pessoa na Unreal Engine 5. Quero: vaga júnior em AI engineering ou automação. Foco: IA local, MCP, agentes e integração. Base: Ciência da Computação na UFJ. Side quest: jogos e mods desde 2019, na Unity e na Unreal. Combustível: café, silêncio e uma GPU." width="100%">
 </picture>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/tags-dark.svg">
-  <img src="./assets/tags-light.svg" alt="IA e dados: LLMs locais, MCP, Claude Code, contexto e parâmetros, SQLite e MySQL. Automação: Node.js, TypeScript, Python, Docker, Playwright, Remotion e Git. Jogos e 3D: Unreal Engine 5, Blueprint, Unity, Blender, C# e Swift." width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/sec-stack-light.svg">
+  <img src="./assets/sec-stack-dark.svg" alt="02 // Stack" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/icones-light.svg">
+  <img src="./assets/icones-dark.svg" alt="Claude, Python, TypeScript, Node.js, Docker, SQLite, MySQL, Git, Swift, .NET, Unity, Unreal Engine e Blender" width="100%">
 </picture>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-abertos-dark.svg">
-  <img src="./assets/sec-abertos-light.svg" alt="03 // Código aberto" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/tags-light.svg">
+  <img src="./assets/tags-dark.svg" alt="IA e dados: LLMs locais, MCP, Claude Code, contexto e parâmetros, SQLite e MySQL. Automação: Node.js, TypeScript, Python, Docker, Playwright, Remotion e Git. Jogos e 3D: Unreal Engine 5, Blueprint, Unity, Blender, C# e Swift." width="100%">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/sec-abertos-light.svg">
+  <img src="./assets/sec-abertos-dark.svg" alt="03 // Código aberto" width="100%">
 </picture>
 
 <p align="center">
@@ -73,30 +73,30 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-andamento-dark.svg">
-  <img src="./assets/sec-andamento-light.svg" alt="04 // Em andamento" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/sec-andamento-light.svg">
+  <img src="./assets/sec-andamento-dark.svg" alt="04 // Em andamento" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/andamento-dark.svg">
-  <img src="./assets/andamento-light.svg" alt="Projetos privados: WW1-Thriller, terror em terceira pessoa na Unreal Engine 5.8. Casa Acessível, experiência em VR para exposição num shopping da minha cidade, com casa e banheiro adaptados a cadeirantes. CUTSCENE-LOADER, animação 3D a partir de vídeo comum. Painel com MCP, que mostra ao Claude o estado real das coisas. Fábrica de vídeos com roteiro, voz local e animação 3D. Prospecção com teto de custo e aprovação de cada envio." width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/andamento-light.svg">
+  <img src="./assets/andamento-dark.svg" alt="Projetos privados: WW1-Thriller, terror em terceira pessoa na Unreal Engine 5.8. Casa Acessível, experiência em VR para exposição num shopping da minha cidade, com casa e banheiro adaptados a cadeirantes. CUTSCENE-LOADER, animação 3D a partir de vídeo comum. Painel com MCP, que mostra ao Claude o estado real das coisas. Fábrica de vídeos com roteiro, voz local e animação 3D. Prospecção com teto de custo e aprovação de cada envio." width="100%">
 </picture>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-contato-dark.svg">
-  <img src="./assets/sec-contato-light.svg" alt="05 // Contato" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/sec-contato-light.svg">
+  <img src="./assets/sec-contato-dark.svg" alt="05 // Contato" width="100%">
 </picture>
 
 <a href="mailto:jbmidiasxboy@gmail.com"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contato-dark.svg">
-  <img src="./assets/contato-light.svg" alt="Fale comigo. Tô atrás de vaga júnior em AI engineering ou automação. Freela e parceria também me interessam." width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contato-light.svg">
+  <img src="./assets/contato-dark.svg" alt="Fale comigo. Tô atrás de vaga júnior em AI engineering ou automação. Freela e parceria também me interessam." width="100%">
 </picture></a>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/rodape-dark.svg">
-  <img src="./assets/rodape-light.svg" alt="joaobyss, feito com café" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/rodape-light.svg">
+  <img src="./assets/rodape-dark.svg" alt="joaobyss, feito com café" width="100%">
 </picture>
