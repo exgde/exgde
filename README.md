@@ -28,7 +28,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/sobre-light.svg">
-  <img src="./assets/sobre-dark.svg" alt="Rodo modelos de linguagem no meu próprio computador desde 2023. Hoje trabalho mais com automação: faço o modelo mexer em ferramentas e dados de verdade, inclusive via MCP. Antes da IA vieram os jogos, e eles continuam. Agora estou no WW1-Thriller, um terror em terceira pessoa na Unreal Engine 5. Quero: vaga júnior em AI engineering ou automação. Foco: IA local, MCP, agentes e integração. Base: Ciência da Computação na UFJ. Side quest: jogos e mods desde 2019, na Unity e na Unreal. Combustível: café, silêncio e uma GPU." width="100%">
+  <img src="./assets/sobre-dark.svg" alt="Rodo modelos de linguagem no meu próprio computador desde 2023. Hoje trabalho mais com automação: faço o modelo mexer em ferramentas e dados de verdade, inclusive via MCP. Antes da IA vieram os jogos. Com 10 anos, fiz um pra Game Jaaj 2, a jam do youtuber Andre Young, e ele apareceu entre os 3 cotados pra vencer no vídeo de premiação. Era só meu segundo jogo publicado, e eu não parei mais. Agora estou no WW1-Thriller, um terror em terceira pessoa na Unreal Engine 5. Quero: vaga júnior em AI engineering ou automação. Foco: IA local, MCP, agentes e integração. Base: Ciência da Computação na UFJ. Side quest: jogos e mods desde 2019, na Unity e na Unreal. Combustível: café, silêncio e uma GPU." width="100%">
 </picture>
 
 <br><br>
@@ -63,7 +63,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/exgde/biblioteca-sql"><img src="./assets/card-biblioteca-sql.svg" alt="Biblioteca SQL: trabalho de Banco de Dados da UFJ, o modelo MySQL de uma biblioteca." width="49%"></a>
-<a href="https://joaobyss.itch.io/goldspotting"><img src="./assets/card-goldspotting.svg" alt="Goldspotting: meu primeiro jogo lançado, feito na Unity e publicado no itch.io." width="49%"></a>
+<a href="https://joaobyss.itch.io/goldspotting"><img src="./assets/card-goldspotting.svg" alt="Goldspotting: feito na Unity pra GBJAM 14 e publicado no itch.io." width="49%"></a>
 </p>
 <p align="center">
 <a href="https://github.com/exgde/oot-switch2-button-prompts"><img src="./assets/card-button-prompts.svg" alt="Button Prompts: troca os ícones de botão do OOT (Switch 2) pelos de PlayStation, Xbox e Steam Deck. Mais de 45 estrelas." width="49%"></a>

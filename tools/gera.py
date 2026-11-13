@@ -48,7 +48,10 @@ CONTEUDO = {
     ],
     'bio': ('Rodo modelos de linguagem no meu próprio computador desde 2023. Hoje '
             'trabalho mais com automação: faço o modelo mexer em ferramentas e dados de '
-            'verdade, inclusive via MCP. Antes da IA vieram os jogos, e eles continuam. '
+            'verdade, inclusive via MCP. Antes da IA vieram os jogos. Com 10 anos, fiz um '
+            'pra Game Jaaj 2, a jam do youtuber Andre Young, e ele apareceu entre os 3 '
+            'cotados pra vencer no vídeo de premiação. Era só meu segundo jogo publicado, '
+            'e eu não parei mais. '
             'Agora estou no WW1-Thriller, um terror em terceira pessoa na Unreal Engine 5.'),
     'ficha': [
         ('QUERO', 'Vaga júnior em AI engineering ou automação'),
@@ -76,7 +79,7 @@ CONTEUDO = {
          'Trabalho de Banco de Dados da UFJ. O modelo MySQL de uma biblioteca, com 12 consultas.',
          'MYSQL · MODELAGEM', ''),
         ('goldspotting', 'joaobyss.itch.io', 'Goldspotting',
-         'Meu primeiro jogo lançado. Fiz na Unity e publiquei no itch.io.',
+         'Fiz na Unity pra GBJAM 14 e publiquei no itch.io.',
          'UNITY · ITCH.IO', ''),
         ('button-prompts', 'exgde/oot-switch2-button-prompts', 'Button Prompts',
          'Troca os ícones de botão do OOT (Switch 2) pelos de PlayStation, Xbox e Steam Deck.',
