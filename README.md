@@ -58,16 +58,16 @@
 </picture>
 
 <p align="center">
-<a href="https://github.com/exgde/oot-switch2-button-prompts"><img src="./assets/card-button-prompts.svg" alt="Button Prompts: troca os ícones de botão do OOT (Switch 2) pelos de PlayStation, Xbox e Steam Deck. Mais de 45 estrelas." width="49%"></a>
-<a href="https://github.com/exgde/oot-lichii-keyboard-mouse"><img src="./assets/card-teclado-mouse.svg" alt="Teclado + Mouse: pra jogar OOT no Lichii de teclado e mouse." width="49%"></a>
-</p>
-<p align="center">
 <a href="https://github.com/exgde/exgde.github.io"><img src="./assets/card-portfolio.svg" alt="Portfólio: uma página só, com um PSP 3D que mostra os projetos. HTML, CSS e JS, sem build." width="49%"></a>
 <a href="https://github.com/exgde/adega"><img src="./assets/card-adega.svg" alt="Adega: meu CrossOver caseiro, um app de macOS que roda programas do Windows com Wine." width="49%"></a>
 </p>
 <p align="center">
 <a href="https://github.com/exgde/biblioteca-sql"><img src="./assets/card-biblioteca-sql.svg" alt="Biblioteca SQL: trabalho de Banco de Dados da UFJ, o modelo MySQL de uma biblioteca." width="49%"></a>
 <a href="https://joaobyss.itch.io/goldspotting"><img src="./assets/card-goldspotting.svg" alt="Goldspotting: meu primeiro jogo lançado, feito na Unity e publicado no itch.io." width="49%"></a>
+</p>
+<p align="center">
+<a href="https://github.com/exgde/oot-switch2-button-prompts"><img src="./assets/card-button-prompts.svg" alt="Button Prompts: troca os ícones de botão do OOT (Switch 2) pelos de PlayStation, Xbox e Steam Deck. Mais de 45 estrelas." width="49%"></a>
+<a href="https://github.com/exgde/oot-lichii-keyboard-mouse"><img src="./assets/card-teclado-mouse.svg" alt="Teclado + Mouse: pra jogar OOT no Lichii de teclado e mouse." width="49%"></a>
 </p>
 
 <br>
@@ -79,7 +79,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/andamento-light.svg">
-  <img src="./assets/andamento-dark.svg" alt="Projetos privados: WW1-Thriller, terror em terceira pessoa na Unreal Engine 5.8. Casa Acessível, experiência em VR para exposição num shopping da minha cidade, com casa e banheiro adaptados a cadeirantes. CUTSCENE-LOADER, animação 3D a partir de vídeo comum. Painel com MCP, que mostra ao Claude o estado real das coisas. Fábrica de vídeos com roteiro, voz local e animação 3D. Prospecção com teto de custo e aprovação de cada envio." width="100%">
+  <img src="./assets/andamento-dark.svg" alt="Projetos privados: CUTSCENE-LOADER, animação 3D a partir de vídeo comum. Painel com MCP, que mostra ao Claude o estado real das coisas. Fábrica de vídeos com roteiro, voz local e animação 3D. Prospecção com teto de custo e aprovação de cada envio. Casa Acessível, experiência em VR para exposição num shopping da minha cidade, com casa e banheiro adaptados a cadeirantes. WW1-Thriller, terror em terceira pessoa na Unreal Engine 5.8." width="100%">
 </picture>
 
 <br><br>
