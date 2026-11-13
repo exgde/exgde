@@ -8,7 +8,7 @@ python3 tools/gera.py
 
 - Todo o texto (bio, ficha, stack, projetos, links) fica em `CONTEUDO`, no topo de `gera.py`.
 - Precisa de `fonttools` e `brotli` (`pip install fonttools brotli`).
-- `src/recortes.json` sai de `node tools/extrai_recortes.js`, que lê os recortes em halftone de `src/art.js` (cópia de `exgde.github.io/js/art.js`). Só precisa rodar de novo se mudar um recorte.
+- `src/recortes.json` sai de `node tools/extrai_recortes.js`, que lê os recortes em halftone de `src/art.js` (cópia de `joaobyss.github.io/js/art.js`). Só precisa rodar de novo se mudar um recorte.
 - `src/maos.json` sai de `python3 tools/vetoriza_maos.py` (esse usa Pillow e SciPy), que converte `src/maos.png` em pontos vetoriais.
 
 ## Créditos

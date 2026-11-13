@@ -1,5 +1,5 @@
 // Gera src/recortes.json: os pontos de cada recorte em halftone do portfólio
-// (src/art.js, copiado de exgde.github.io/js/art.js). Roda uma vez:
+// (src/art.js, copiado de joaobyss.github.io/js/art.js). Roda uma vez:
 //   node extrai_recortes.js
 // Precisa de Playwright (Chromium) porque os desenhos usam canvas 2D.
 const { chromium } = require('playwright');

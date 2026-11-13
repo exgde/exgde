@@ -1,6 +1,6 @@
 """Gera todas as imagens do README do perfil (assets/*.svg).
 
-Mesma estética do portfólio (exgde.github.io): preto e branco, recortes em
+Mesma estética do portfólio (joaobyss.github.io): preto e branco, recortes em
 halftone, cantoneiras de "tracking", VT323 no HUD e itálico nos títulos. Cada
 peça sai em -dark e -light, porque o botão "inverter" do site aqui vira o tema
 do GitHub. Os cartões dos repositórios imitam a tela do PSP e são pretos nos
@@ -70,13 +70,13 @@ CONTEUDO = {
     ],
     # repositórios públicos: (arquivo, caminho, título, descrição, stack, nota)
     'abertos': [
-        ('portfolio', 'exgde/exgde.github.io', 'Portfólio',
+        ('portfolio', 'joaobyss/joaobyss.github.io', 'Portfólio',
          'Uma página só, com um PSP 3D que mostra os projetos. HTML, CSS e JS, sem build.',
          'THREE.JS · JAVASCRIPT', ''),
-        ('adega', 'exgde/adega', 'Adega',
+        ('adega', 'joaobyss/adega', 'Adega',
          'Meu CrossOver caseiro: um app de macOS que roda programas do Windows com Wine.',
          'SWIFT · SWIFTUI · WINE', ''),
-        ('biblioteca-sql', 'exgde/biblioteca-sql', 'Biblioteca SQL',
+        ('biblioteca-sql', 'joaobyss/biblioteca-sql', 'Biblioteca SQL',
          'Trabalho de Banco de Dados da UFJ. O modelo MySQL de uma biblioteca, com 12 consultas.',
          'MYSQL · MODELAGEM', ''),
         ('goldspotting', 'joaobyss.itch.io', 'Goldspotting',
@@ -85,10 +85,10 @@ CONTEUDO = {
     ],
     # mods e correções para jogos, mesmo formato de 'abertos'
     'mods': [
-        ('button-prompts', 'exgde/oot-switch2-button-prompts', 'Button Prompts',
+        ('button-prompts', 'joaobyss/oot-switch2-button-prompts', 'Button Prompts',
          'Troca os ícones de botão do OOT (Switch 2) pelos de PlayStation, Xbox e Steam Deck.',
          'MOD · ROMFS · LAYEREDFS', '★ 45+'),
-        ('teclado-mouse', 'exgde/oot-lichii-keyboard-mouse', 'Teclado + Mouse',
+        ('teclado-mouse', 'joaobyss/oot-lichii-keyboard-mouse', 'Teclado + Mouse',
          'Pra jogar OOT no Lichii de teclado e mouse. Troca até os ícones e a tela de controles.',
          'PYTHON · POWERSHELL', ''),
     ],
@@ -104,7 +104,7 @@ CONTEUDO = {
     'andamento_nota': 'código fechado por enquanto. os de IA abrem quando eu terminar de tirar chaves e dados pessoais.',
     'contato': ['fale', 'comigo.'],
     'contato_txt': 'tô atrás de vaga júnior em AI engineering ou automação. freela e parceria também me interessam.',
-    'rodape': ['joaobyss', 'feito com café  ·  exgde.github.io'],
+    'rodape': ['joaobyss', 'feito com café  ·  joaobyss.github.io'],
 }
 
 # ------------------------------------------------------------------- temas

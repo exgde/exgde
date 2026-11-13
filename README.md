@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://exgde.github.io"><picture>
+<a href="https://joaobyss.github.io"><picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
   <img src="./assets/banner-dark.svg" alt="joaobyss: IA local, automação e jogos" width="100%">
 </picture></a>
@@ -12,7 +12,7 @@
   <img src="./assets/terminal-dark.svg" alt="Ligo IA local a ferramentas e rotinas. No tempo livre, faço jogos." width="100%">
 </picture>
 
-<a href="https://exgde.github.io"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/btn-portfolio-light.svg"><img src="./assets/btn-portfolio-dark.svg" alt="Portfólio" height="34"></picture></a>&nbsp;
+<a href="https://joaobyss.github.io"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/btn-portfolio-light.svg"><img src="./assets/btn-portfolio-dark.svg" alt="Portfólio" height="34"></picture></a>&nbsp;
 <a href="https://www.linkedin.com/in/joao-bernardes-478749415/"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/btn-linkedin-light.svg"><img src="./assets/btn-linkedin-dark.svg" alt="LinkedIn" height="34"></picture></a>&nbsp;
 <a href="mailto:jbmidiasxboy@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/btn-email-light.svg"><img src="./assets/btn-email-dark.svg" alt="E-mail" height="34"></picture></a>&nbsp;
 <a href="https://joaobyss.itch.io"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/btn-itch-light.svg"><img src="./assets/btn-itch-dark.svg" alt="itch.io" height="34"></picture></a>
@@ -58,11 +58,11 @@
 </picture>
 
 <p align="center">
-<a href="https://github.com/exgde/exgde.github.io"><img src="./assets/card-portfolio.svg" alt="Portfólio: uma página só, com um PSP 3D que mostra os projetos. HTML, CSS e JS, sem build." width="49%"></a>
-<a href="https://github.com/exgde/adega"><img src="./assets/card-adega.svg" alt="Adega: meu CrossOver caseiro, um app de macOS que roda programas do Windows com Wine." width="49%"></a>
+<a href="https://github.com/joaobyss/joaobyss.github.io"><img src="./assets/card-portfolio.svg" alt="Portfólio: uma página só, com um PSP 3D que mostra os projetos. HTML, CSS e JS, sem build." width="49%"></a>
+<a href="https://github.com/joaobyss/adega"><img src="./assets/card-adega.svg" alt="Adega: meu CrossOver caseiro, um app de macOS que roda programas do Windows com Wine." width="49%"></a>
 </p>
 <p align="center">
-<a href="https://github.com/exgde/biblioteca-sql"><img src="./assets/card-biblioteca-sql.svg" alt="Biblioteca SQL: trabalho de Banco de Dados da UFJ, o modelo MySQL de uma biblioteca." width="49%"></a>
+<a href="https://github.com/joaobyss/biblioteca-sql"><img src="./assets/card-biblioteca-sql.svg" alt="Biblioteca SQL: trabalho de Banco de Dados da UFJ, o modelo MySQL de uma biblioteca." width="49%"></a>
 <a href="https://joaobyss.itch.io/goldspotting"><img src="./assets/card-goldspotting.svg" alt="Goldspotting: feito na Unity pra GBJAM 14 e publicado no itch.io." width="49%"></a>
 </p>
 
@@ -74,8 +74,8 @@
 </picture>
 
 <p align="center">
-<a href="https://github.com/exgde/oot-switch2-button-prompts"><img src="./assets/card-button-prompts.svg" alt="Button Prompts: troca os ícones de botão do OOT (Switch 2) pelos de PlayStation, Xbox e Steam Deck. Mais de 45 estrelas." width="49%"></a>
-<a href="https://github.com/exgde/oot-lichii-keyboard-mouse"><img src="./assets/card-teclado-mouse.svg" alt="Teclado + Mouse: pra jogar OOT no Lichii de teclado e mouse." width="49%"></a>
+<a href="https://github.com/joaobyss/oot-switch2-button-prompts"><img src="./assets/card-button-prompts.svg" alt="Button Prompts: troca os ícones de botão do OOT (Switch 2) pelos de PlayStation, Xbox e Steam Deck. Mais de 45 estrelas." width="49%"></a>
+<a href="https://github.com/joaobyss/oot-lichii-keyboard-mouse"><img src="./assets/card-teclado-mouse.svg" alt="Teclado + Mouse: pra jogar OOT no Lichii de teclado e mouse." width="49%"></a>
 </p>
 
 <br>
